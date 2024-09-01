@@ -7,4 +7,4 @@ Python implementation of a CNN able to recognize CAPTCHAs taken from [this](http
 3) [Improved architecture and performance analysis](https://github.com/marcoimbee/CNN-based-CAPTCHA-recognition/blob/main/notebooks/%5B3.0%5D%20Improved%20architecture%20and%20performance%20analysis.ipynb)
 
 ## Note:
-The project has been developed for the Intelligent System course at the University of Pisa.
+The project has been developed for the "Intelligent Systems" course at the University of Pisa.
