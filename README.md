@@ -7,8 +7,5 @@ Python implementation of a CNN able to recognize CAPTCHAs taken from [this](http
 2) [First CNN architecture and performance analysis](https://github.com/marcoimbee/CNN-based-CAPTCHA-recognition/blob/main/notebooks/%5B2.0%5D%20First%20CNN%20architecture%20and%20performance%20analysis.ipynb)
 3) [Improved architecture and performance analysis](https://github.com/marcoimbee/CNN-based-CAPTCHA-recognition/blob/main/notebooks/%5B3.0%5D%20Improved%20architecture%20and%20performance%20analysis.ipynb)
 
-## Final network structure:
-![final_network_arch](https://github.com/marcoimbee/CNN-based-CAPTCHA-recognition/blob/main/images/regularized_model_architecture.png)
-
 ## Note:
 The project has been developed for the "Intelligent Systems" course at the University of Pisa.
